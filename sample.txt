@@ -1,1 +1,1 @@
-This is original sample(master) file
+This is original sample(master + first_branch) file
